@@ -1,0 +1,6 @@
+# index:
+#    path: /index
+#    controller: App\Controller\ArticleController::index
+# save:
+#    path: /article/save
+#    controller: App\Controller\ArticleController::save
